@@ -2,4 +2,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.TVOJ-DOMEN.rs/sitemap.xml
+Sitemap: https://pilipovicteodora5-creator.github.io/TeodoraPilipovicIT13242026/sitemap.xml
