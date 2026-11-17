@@ -1,0 +1,11 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="120" viewBox="0 0 520 120">
+  <rect width="520" height="120" fill="none"></rect>
+  <g fill="#302820">
+    <path d="M15 25 L15 95 L27 95 L27 48 L48 76 L69 48 L69 95 L81 95 L81 25 L68 25 L48 53 L28 25 Z"></path>
+  </g>
+  <circle cx="48" cy="60" r="48" fill="none" stroke="#b99762" stroke-width="1.5"></circle>
+  <text x="108" y="72" font-family="Georgia, serif" font-size="48" letter-spacing="5" fill="#302820">MY</text>
+  <text x="218" y="72" font-family="Georgia, serif" font-size="48" letter-spacing="4" fill="#b99762">TRAVEL</text>
+  <path d="M110 88 H485" stroke="#b99762" stroke-width="1"></path>
+</svg>
